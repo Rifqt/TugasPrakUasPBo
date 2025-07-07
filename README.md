@@ -6,4 +6,4 @@ NAMA : Agus Rizky Ramdhani (1237050033)
 KELAS : Praktikum PBO G
 =============================================================
 
-Project sederhana Pengelolaan Karyawan untuk kebutuhan Uas Mata Kuliah Praktikum PBO
+Project sederhana Pengelolaan Karyawan JAVA CRUD untuk kebutuhan Uas Mata Kuliah Praktikum PBO
